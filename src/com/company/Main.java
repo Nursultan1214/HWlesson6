@@ -8,7 +8,6 @@ public class Main {
         Boss.setHealth(660);
         Boss.setDamage(44);
         Boss.setAttack("flash");
-               System.out.println("Информация про босса:  " + Boss.getHealth ()  +  Boss.getAttack ()  +  Boss.getDamage());
                System.out.println(Boss.getHealth ());
                System.out.println(Boss.getAttack ());
                System.out.println(Boss.getDamage());
